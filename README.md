@@ -1,0 +1,2 @@
+# FileTypeDetector
+ファイルタイプをファイルの中身を調べて取得
